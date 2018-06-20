@@ -32,3 +32,6 @@ Any software developer manipulating geometry objects or dealing with 2D or 3D gr
 The goal for Euclid Core is to become the most flexible, easy to use, and fast library for vector math, so it results in great increase in development productivity. 
 However, this library is intended to remain a very low-level library easy to depend on and to build on top of it.
 For instance, no shapes such as boxes or cylinders will be integrated to this library.
+
+See our [github repository](https://github.com/ihmcrobotics/euclid-core).
+See our [javadocs](euclid-core-javadocs.md).
