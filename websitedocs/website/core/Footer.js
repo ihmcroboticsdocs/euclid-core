@@ -35,7 +35,7 @@ class Footer extends React.Component {
           </a>
          <div>
             <h5>Docs</h5>
-            <a href={<a href="https://ihmcroboticsdocs.github.io/docs/quickstarthome.html">
+            <a href="https://ihmcroboticsdocs.github.io/docs/quickstarthome.html">
               Quick Start
             </a>
             <a href="https://ihmcroboticsdocs.github.io/docs/docshome.html">
