@@ -12,7 +12,7 @@ const siteConfig = {
   title: 'IHMC Robotics' /* title for your website */,
   tagline: 'Our Open Source Software Documentation',
   url: 'https://ihmcroboticsdocs.github.io/euclid-core' /* your website url */,
-  baseUrl: '/' /* base url for your project */,
+  baseUrl: '/euclid-core/' /* base url for your project */,
 
   // Used for publishing and more
   projectName: 'euclid-core',
@@ -77,10 +77,6 @@ const siteConfig = {
 
   /* On page navigation for the current documentation page */
   onPageNav: 'separate',
-
-  /* Javadoc CSS */
-  separateCss: ['static/javadocs','static/javadocs/stylesheet.css', 'static/javadocs/euclid', 'static/javadocs/index-files',
-                'static/javadocs/jquery', 'static/javadocs/resources', 'static/javadocs/us'],
      
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
