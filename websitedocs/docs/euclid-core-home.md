@@ -34,5 +34,3 @@ However, this library is intended to remain a very low-level library easy to dep
 For instance, no shapes such as boxes or cylinders will be integrated to this library.
 
 See our [github repository](https://github.com/ihmcrobotics/euclid-core).
-
-See our [javadocs](https://ihmcroboticsdocs.github.io/euclid-core/docs/euclid-core-javadocs).

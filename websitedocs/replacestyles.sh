@@ -15,6 +15,9 @@ for file in $(grep -l -R $searchterm $startdir)
 	echo "Modified: " $file
 done
 
-echo "Done."
+echo "Finished replacements."
+
+#Removes all the previously existing css files
+find $startdir -maxdepth 2 -name "*.css" -type f -delete 
 
 
